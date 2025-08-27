@@ -1,0 +1,13 @@
+{
+    "name": "json-deduplicator",
+    "version": "1.0.0",
+    "description": "A command-line tool to deduplicate JSON records based on ID and email, with logging.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "node tests/deduplicator.test.js"
+    },
+    "author": "Malyadri Peruru",
+    "dependencies": {},
+    "devDependencies": {}
+}

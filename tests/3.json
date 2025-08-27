@@ -1,0 +1,20 @@
+{
+    "leads": [
+        {
+            "_id": "1",
+            "email": "a@b.com",
+            "firstName": "A",
+            "lastName": "B",
+            "address": "Addr1",
+            "entryDate": "2022-01-01T10:00:00+00:00"
+        },
+        {
+            "_id": "2",
+            "email": "a@b.com",
+            "firstName": "A",
+            "lastName": "B",
+            "address": "Addr2",
+            "entryDate": "2022-01-02T10:00:00+00:00"
+        }
+    ]
+}
